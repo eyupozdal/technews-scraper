@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated output (contains scraped data, not source code)
+news_data.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
